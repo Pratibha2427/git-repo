@@ -1,0 +1,2 @@
+This is file1.txt created for my GitHub repository practice.
+I am learning how to add files, edit them, commit changes, and push updates to GitHub.
